@@ -10,4 +10,5 @@
 # ./DAV7_RAT
 
 # coded By ./DAV7
- DAV7 itu nick gw dulu yee sekarang nick gw dah ganti 
+
+#DAV7 itu nick gw dulu yee sekarang nick gw dah ganti 
